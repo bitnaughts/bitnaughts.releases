@@ -1,0 +1,2 @@
+# bitnaughts.releases
+Released binaries
